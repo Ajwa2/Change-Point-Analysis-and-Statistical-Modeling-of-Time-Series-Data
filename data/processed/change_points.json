@@ -1,0 +1,9 @@
+{
+  "model": "bayesian_single_tau_monthly",
+  "tau_median": "2008-02-29",
+  "tau_index_month": 249,
+  "mu1_mean": 0.00263229644011209,
+  "mu2_mean": 0.005617508479070606,
+  "p_mu2_gt_mu1": 0.565,
+  "matched_events": []
+}
