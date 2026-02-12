@@ -1,0 +1,14 @@
+date,event,category,description,source
+2014-06-01,2014 OPEC Decision / Oil Price Collapse,Market/OPEC,Shift in OPEC policy and supply glut leading to major price declines,https://www.bbc.com/news/business-30252440
+2014-11-27,US Shale Boom Intensifies,Supply,US shale production growth contributes to oversupply and lowers prices,https://www.eia.gov/analysis/studies/usshale/
+2016-01-01,2016 Global Demand Slowdown,Macro,Global economic slowdown concerns and oversupply weigh on prices,https://www.imf.org/en/Publications
+2018-05-08,US Withdrawal from Iran Nuclear Deal / Sanctions,Geo-Political,Re-imposition of US sanctions on Iran impacts supply expectations,https://www.reuters.com/article/us-iran-nuclear-usa-idUSKBN1I10YI
+2019-07-01,US-China Trade Tensions,Macro,Escalating trade tensions reduce global demand expectations,https://www.cnbc.com/2019/07/2019-us-china-trade-war.html
+2020-02-20,COVID-19 Global Demand Shock,Health/Pandemic,Global lockdowns sharply cut oil demand and collapsed prices,https://www.iea.org/reports/global-energy-review-2020
+2020-03-08,Saudi-Russia Price War,Market,Failure to agree on cuts leads to oil price crash and historic negative prices for WTI,https://www.nytimes.com/2020/04/20/business/energy-environment/oil-prices.html
+2020-04-12,OPEC+ Production Cuts Announced,Market/OPEC,Coordinated cuts to stabilize markets following COVID demand collapse,https://www.opec.org/opec_web/en/
+2021-01-01,Slow Demand Recovery and Vaccine Rollout,Macro,Gradual recovery expectations as vaccines are deployed globally,https://www.who.int/
+2021-07-01,OPEC+ Gradual Production Increases,Market/OPEC,OPEC+ announces paced output increases influencing price path,https://www.opec.org/opec_web/en/
+2022-02-24,Russia-Ukraine Conflict and Sanctions,Geo-Political,Invasion triggers supply risk premium and major market disruptions,https://www.reuters.com/world/europe/russia-ukraine/
+2022-03-08,Energy Security Measures and EU Sanctions,Policy,EU and others take measures that affect supply and transport of oil,https://ec.europa.eu/
+2016-06-24,Brexit Referendum,Macro,Political uncertainty affecting markets and expectations of demand,https://www.bbc.com/news/uk-politics-celeb
