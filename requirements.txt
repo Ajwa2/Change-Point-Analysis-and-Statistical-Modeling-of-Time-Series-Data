@@ -10,3 +10,5 @@ notebook
 ipython
 flask
 pytest
+pymc
+arviz
